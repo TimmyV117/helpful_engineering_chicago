@@ -1,2 +1,6 @@
 # helpful_engineering_chicago
-Mainly for Chicago efforts around PPE donations during the Covid crisis
+Mainly for Chicago efforts around PPE donations during the Covid crisis  
+
+Uses Python version 3.7  
+
+Packages in `requirements.txt`

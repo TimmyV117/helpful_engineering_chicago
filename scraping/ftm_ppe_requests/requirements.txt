@@ -86,7 +86,7 @@ protobuf==3.11.3
 psutil==5.7.0
 ptyprocess==0.6.0
 pubnub==4.5.0
-pyarrow==0.14.1
+pyarrow==0.15.1
 pyasn1==0.4.5
 pyasn1-modules==0.2.8
 pycryptodomex==3.9.7
